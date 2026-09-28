@@ -27,4 +27,4 @@ Le cahier des charges définit le besoin auquel le projet doit répondre. Il ser
 ### La documentation
 - [Technique](documentation.md)
 - [Les bonnes pratiques](lesBonnesPratiques.md)
-- [Braitenberg](algorithmique.pdf)
+- [Braitenberg](Algorithmique.pdf)
